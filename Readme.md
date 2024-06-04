@@ -3,3 +3,4 @@
 ### Trabalhando Conceitos de Media Query no CSS
 
 - Usamos o ResponsivelyApp para ver as telas enquanto desenvolvíamos
+- CSS Nesting
