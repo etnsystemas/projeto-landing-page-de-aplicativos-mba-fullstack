@@ -4,3 +4,4 @@
 
 - Usamos o ResponsivelyApp para ver as telas enquanto desenvolvíamos
 - CSS Nesting
+- CSS Avançado
